@@ -1,5 +1,5 @@
 // Add your dependencies here
 
 dependencies {
-    compileOnly("com.github.GTNewHorizons:Battlegear2:1.4.2:dev") { transitive = false }
+    compileOnly("com.github.GTNewHorizons:Battlegear2:1.4.3:dev") { transitive = false }
 }
